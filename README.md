@@ -43,9 +43,11 @@ OpenSana is an open-source scientific research AI platform that gives researcher
 
 ### 1 — Clone and configure
 
+> **Note:** The GitHub repository is named `StartResearch`; the platform itself is **OpenSana**.
+
 ```bash
-git clone https://github.com/sanchitnis/StartResearch.git
-cd StartResearch
+git clone https://github.com/sanchitnis/StartResearch.git opensana
+cd opensana
 cp .env.example .env          # edit API keys / model endpoints as needed
 ```
 
